@@ -1,0 +1,1 @@
+# ESP8266-controle-Fan-IP-Fixo-WifiManger
